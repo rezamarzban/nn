@@ -1,5 +1,4 @@
-# nn
-Simple handwritten digit recognition Neural Network by using PyTorch
+nn: Simple handwritten digit recognition Neural Network by using PyTorch
 ---------------------------------------------------------------------
 
 To compiling run:
